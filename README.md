@@ -4,13 +4,13 @@
 This project is a PG (Paying Guest) Management System developed using Spring Boot and Angular, with MySQL as the database.
 
 ## Table of Contents
-### Introduction
-### Features
-### Technologies Used
-### Installation
-### Usage
-### Contributing
-### License
+#### Introduction
+#### Features
+#### Technologies Used
+#### Installation
+#### Usage
+#### Contributing
+#### License
 
 ## Introduction
 The PG Management System is designed to manage the operations of a PG accommodation business. It provides functionalities for managing rooms, tenants, bookings, payments, and more.
